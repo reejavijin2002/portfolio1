@@ -1,0 +1,84 @@
+
+.one{
+    height: 70px;
+    
+    background-color:#2bb550;
+    margin:"0px"
+}
+.two{
+    height: 90vh;
+    background-color:#ffffff;
+    margin: 0px;
+    display: flex;
+}
+.three{
+    padding: 80px;
+    font-style:oblique;
+    color:#2bb550;
+    
+}
+h1{
+    font-weight: bolder;
+}
+.five{
+    width: 30%;
+    margin:30px;
+}
+.six{
+    width:70%;
+    margin:30px;
+    border :2px solid black;
+   
+    border-radius: 20px;
+    border: none;
+    
+}
+button{
+    width: 80%;
+    margin-top: 30px;
+    background-color: #2bb550;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bolder;
+    font-style:oblique; 
+    border :0px solid rgb(0, 0, 0);
+    box-shadow: 3px 1px;
+    
+    
+   
+}
+
+.seven{
+    font-style:oblique;
+}
+.eight{
+    font-style:oblique;
+}
+.nine{
+    font-style:oblique;
+    width: 500px;
+}
+.ten{
+    font-style:oblique;
+}
+.ab{
+    font-style:oblique; 
+}
+.cd{
+    font-style:oblique; 
+}
+button:hover{
+    background-color: aliceblue;
+    border:2px solid #2bb550;
+    color: #2bb550;
+}
+.ef{
+    font-style:oblique;  
+}
+p{
+    font-weight:500;
+}
+.ef{
+}

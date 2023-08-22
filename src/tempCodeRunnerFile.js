@@ -1,0 +1,1 @@
+As a passionate MERN Stack Developer, I thrive on turning innovative ideas into beautifully crafted and fully functional web applications. My journey in the world of software development has been a rewarding adventure, and I'm excited to share some of the projects I've worked on.
