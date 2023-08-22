@@ -1,84 +1,299 @@
 
-.one{
-    height: 70px;
-    
-    background-color:#2bb550;
-    margin:"0px"
-}
-.two{
-    height: 90vh;
-    background-color:#ffffff;
-    margin: 0px;
-    display: flex;
-}
-.three{
-    padding: 80px;
-    font-style:oblique;
-    color:#2bb550;
-    
-}
-h1{
-    font-weight: bolder;
-}
-.five{
-    width: 30%;
-    margin:30px;
-}
-.six{
-    width:70%;
-    margin:30px;
-    border :2px solid black;
+
+@media screen and (min-width: 1440px) {
+    .one{
+        height: 70px;
+        
+        background-color:#2bb550;
+        margin:"0px"
+    }
+    #dd{
+        display: flex;
+        
+       }
    
-    border-radius: 20px;
-    border: none;
+    .two{
+        height: 90vh;
+        background-color:#ffffff;
+        margin: 0px;
+        display: flex;
+    }
+    .three{
+        padding: 80px;
+        font-style:oblique;
+        color:#2bb550;
+        
+    }
+    h1{
+        font-weight: bolder;
+    }
+    .five{
+        width: 40%;
+        margin:30px;
+        
+    }
+    .six{
+        width:70%;
+        margin:30px;
+        border :2px solid black;
+       
+        border-radius: 20px;
+        border: none;
+        
+    }
+    button{
+        width: 100%;
+        margin-top: 30px;
+        background-color: #2bb550;
+        color: aliceblue;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        font-weight: bolder;
+        font-style:oblique; 
+        border :0px solid rgb(0, 0, 0);
+        box-shadow: 3px 1px;
+        
+        
+       
+    }
     
+    .seven{
+        font-style:oblique;
+    }
+    .eight{
+        font-style:oblique;
+    }
+    .nine{
+        font-style:oblique;
+        width: 500px;
+    }
+    .ten{
+        font-style:oblique;
+    }
+    .ab{
+        font-style:oblique; 
+    }
+    .cd{
+        font-style:oblique; 
+    }
+    button:hover{
+        background-color: aliceblue;
+        border:2px solid #2bb550;
+        color: #2bb550;
+    }
+    .ef{
+        font-style:oblique;  
+    }
+    p{
+        font-weight:500;
+    }
+    .ef{
+    }
+   
 }
-button{
-    width: 80%;
-    margin-top: 30px;
-    background-color: #2bb550;
-    color: aliceblue;
-    padding: 10px;
-    border-radius: 5px;
-    border: none;
-    font-weight: bolder;
-    font-style:oblique; 
-    border :0px solid rgb(0, 0, 0);
-    box-shadow: 3px 1px;
+@media screen and (min-width: 768px ) {
+
+    #dd{
+        display: flex;
+        
+       }
+    .one{
+        height: 70px;
+        
+        background-color:#2bb550;
+        margin:"0px"
+    }
+    .two{
+        height: 90vh;
+        background-color:#ffffff;
+        margin: 0px;
+        display: flex;
+    }
+    .three{
+        padding: 80px;
+        font-style:oblique;
+        color:#2bb550;
+        
+    }
+    h1{
+        font-weight: bolder;
+    }
+    .five{
+        width: 30%;
+        margin:30px;
+    }
+    .six{
+        width:70%;
+        margin:30px;
+        border :2px solid black;
+       
+        border-radius: 20px;
+        border: none;
+        
+    }
+    button{
+        width: 80%;
+        margin-top: 30px;
+        background-color: #2bb550;
+        color: aliceblue;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        font-weight: bolder;
+        font-style:oblique; 
+        border :0px solid rgb(0, 0, 0);
+        box-shadow: 3px 1px;
+        
+        
+       
+    }
     
-    
+    .seven{
+        font-style:oblique;
+    }
+    .eight{
+        font-style:oblique;
+    }
+    .nine{
+        font-style:oblique;
+        width: 500px;
+    }
+    .ten{
+        font-style:oblique;
+    }
+    .ab{
+        font-style:oblique; 
+    }
+    .cd{
+        font-style:oblique; 
+    }
+    button:hover{
+        background-color: aliceblue;
+        border:2px solid #2bb550;
+        color: #2bb550;
+    }
+    .ef{
+        font-style:oblique;  
+    }
+    p{
+        font-weight:500;
+    }
+    .ef{
+    }
+   
+   
    
 }
 
-.seven{
-    font-style:oblique;
+
+@media (min-width: 280px) {
+    #dd{
+        flex-direction: row;
+        
+       }
+       .gg{
+        padding: 5px;
+        margin-left: 15px;
+        margin-top: 10px;
+       }
+    
+    .one{
+        height: 50px;
+        width: 100%;
+        background-color:#2bb550;
+        margin:"0px"
+    }
+    .qq{
+        text-shadow: 3px 1px;
+    }
+    
+    .yy{
+        width: 100%;
+    }
+    .two{
+        height: 100%;
+        background-color:#ffffff;
+        margin: 0px;
+        flex-direction: row;
+    
+    }
+    .three{
+        padding: 50px;
+        font-style:oblique;
+        color:#2bb550;
+        
+    }
+    h1{
+        font-weight: bold;
+    }
+    .four{
+    
+    }
+    .five{
+        width: 15%;
+        margin:15px;
+    }
+    .six{
+        width:70%;
+        margin:30px;
+        border :2px solid black;
+       
+        border-radius: 20px;
+        border: none;
+        
+    }
+    button{
+        width: 100px;
+        margin-top: 30px;
+        background-color: #2bb550;
+        color: aliceblue;
+        padding: 10px;
+        border-radius: 0px;
+        border: none;
+        font-weight: bolder;
+        font-style:oblique; 
+        border :0px solid rgb(0, 0, 0);
+        box-shadow: 3px 1px;
+        
+        
+       
+    }
+    
+    .seven{
+        font-style:oblique;
+    }
+    .eight{
+        font-style:oblique;
+    }
+    .nine{
+        font-style:oblique;
+        width: 500px;
+    }
+    .ten{
+        font-style:oblique;
+    }
+    .ab{
+        font-style:oblique; 
+    }
+    .cd{
+        font-style:oblique; 
+    }
+    button:hover{
+        background-color: aliceblue;
+        border:2px solid #2bb550;
+        color: #2bb550;
+    }
+    .ef{
+        font-style:oblique;  
+    }
+    p{
+        font-weight:500;
+    }
+    .ef{
+    }
+   
+   
 }
-.eight{
-    font-style:oblique;
-}
-.nine{
-    font-style:oblique;
-    width: 500px;
-}
-.ten{
-    font-style:oblique;
-}
-.ab{
-    font-style:oblique; 
-}
-.cd{
-    font-style:oblique; 
-}
-button:hover{
-    background-color: aliceblue;
-    border:2px solid #2bb550;
-    color: #2bb550;
-}
-.ef{
-    font-style:oblique;  
-}
-p{
-    font-weight:500;
-}
-.ef{
-}
+
+
